@@ -46,13 +46,13 @@ const projects = [
       id : 6 ,
       title : 'Reviews' ,
       image : 'reviews2.png' ,
-      link : ''
+      link : 'https://chipper-entremet-cd6a2b.netlify.app/'
      },
     {
       id : 7 ,
       title : 'Color Flipper' ,
       image : 'colorFlipper.png' ,
-      link : ''
+      link : 'https://musical-sundae-827182.netlify.app/'
      },
     {
       id : 8 ,
